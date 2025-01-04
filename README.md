@@ -1,9 +1,15 @@
 # MuseumDisplaySheet
-Museum Sets And Display Case Spreadsheet
+# Museum Sets And Display Case Spreadsheet
 
-howdy all :)
+# howdy all :)
 
-heres how to setup the spreadsheet
+
+
+![image](https://github.com/user-attachments/assets/30f03420-637a-4e00-a81d-f4ae931d9c13)
+
+
+
+# heres how to setup the spreadsheet
 
 firstly open this link so you have access to the library : https://script.google.com/d/1Cq0ZFcdHA7lcWBsY9eRXK1SOA07hK1mfuxoUyvCsfBgZ-95oXPzKgk1R/edit?usp=sharing
 
@@ -53,13 +59,13 @@ Go to the custom menu in the toolbar and hit button 1 set your key then press bu
 
 <img width="932" alt="10" src="https://github.com/user-attachments/assets/576b93a5-f2c4-4dab-b4cd-4a5a552c8c27" />
 
-boom you should be all setup
+# boom you should be all setup
 
-any suggestions feel free to reach out :)
+# any suggestions feel free to reach out :)
 
-Made by Billybourbon/Bilbosaggings
+# Made by Billybourbon/Bilbosaggings
 
-as with all my stuff this is free so if youve paid for it your a numpty but let me know the seller and ill go pop a turd on their door handles
+# as with most of my stuff this is free so if youve paid for it your a numpty but let me know the seller and ill go pop a turd on their door handles
 
 donations accepted but not required.
 
