@@ -51,13 +51,16 @@ Head back to the spreadsheet and hit reload
 
 Go to the custom menu in the toolbar and hit button 1 set your key then press button 2. 
 
+<img width="932" alt="10" src="https://github.com/user-attachments/assets/576b93a5-f2c4-4dab-b4cd-4a5a552c8c27" />
+
 boom you should be all setup
 
 any suggestions feel free to reach out :)
 
 Made by Billybourbon/Bilbosaggings
+
 as with all my stuff this is free so if youve paid for it your a numpty but let me know the seller and ill go pop a turd on their door handles
+
 donations accepted but not required.
 
-<img width="932" alt="10" src="https://github.com/user-attachments/assets/576b93a5-f2c4-4dab-b4cd-4a5a552c8c27" />
 
