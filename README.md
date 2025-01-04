@@ -1,7 +1,7 @@
 # MuseumDisplaySheet
-# Museum Sets And Display Case Spreadsheet
+__**Museum Sets And Display Case Spreadsheet**__
 
-# howdy all :)
+**howdy all :)**
 
 
 
@@ -61,7 +61,14 @@ Go to the custom menu in the toolbar and hit button 1 set your key then press bu
 
 # boom you should be all setup
 
+Any updates should come through to you automatically however you can choose which version to run yourself by going to the script editor. under libraries click the Display and Museum one then change it from HEAD to your desired version
+
+By default you all have it set to HEAD which is the Development/Live version but the most recent version shown should work just aswell if HEAD becomes unstable
+
 # any suggestions feel free to reach out :)
+
+BillyBourbon On Discord
+Bilbosaggings [2323763] On Torn
 
 # Made by Billybourbon/Bilbosaggings
 
