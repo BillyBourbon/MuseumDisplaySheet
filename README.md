@@ -10,23 +10,29 @@ firstly open this link so you have access to the library : https://script.google
 next open this spreadsheet : https://docs.google.com/spreadsheets/d/1F5x9VYBx0mEjx1sDnIj5cBNHSWcI9qbS61pM50r9zcQ/edit?usp=sharing
 
 hit file -> make a copy. it should look like the image below when you go to copy
+
 <img width="325" alt="1" src="https://github.com/user-attachments/assets/f5f6869a-e69a-4d84-8d5e-73ca1539d947" />
 
 once youve copied the spreadseeht load it up
 
 go to the sheets toolbar and click the Extensions -> Apps Script button.
+
 <img width="931" alt="Screenshot 2025-01-04 051752" src="https://github.com/user-attachments/assets/283c6e40-0845-401a-931a-884b2bba4a4e" />
+
 <img width="261" alt="2" src="https://github.com/user-attachments/assets/48d2bd67-1f11-4e56-b0c8-4296ba424399" />
 
 this will load the code editor
+
 <img width="932" alt="3" src="https://github.com/user-attachments/assets/1df9e0fa-8a36-40ee-935b-87115510d872" />
 
 run the functionc alled "RunME"
 
 IF you get the error shown below then make sure to open the library link and try again 
+
 <img width="716" alt="3error" src="https://github.com/user-attachments/assets/ecd786e1-ed06-4fdb-a757-4a0757fc33f8" />
 
 follow the images below for allowing permissions
+
 <img width="314" alt="4" src="https://github.com/user-attachments/assets/1a0dfa17-729f-406f-b389-2faf87eb5db7" />
 
 <img width="959" alt="5" src="https://github.com/user-attachments/assets/dca80397-46e3-4154-a0cf-faf58e83c134" />
